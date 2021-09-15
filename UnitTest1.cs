@@ -27,7 +27,7 @@ namespace WiniumDesktop2
             DesktopOptions options = new DesktopOptions();
             options.ApplicationPath = @"D:\SimpleApp\WpfApp.exe";
             WiniumDriver driver = new WiniumDriver(@"D:\itvdn\Winium.Desktop.Driver\", options);
-            driver.FindElementByName("btn").Click();
+            //driver.FindElementByName("btn").Click();
 
             
 

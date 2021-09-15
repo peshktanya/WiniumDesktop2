@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiniumDesktop2", "WiniumDesktop2.csproj", "{FCFEC481-049A-4793-94FA-F03EB12A6792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFEC481-049A-4793-94FA-F03EB12A6792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFEC481-049A-4793-94FA-F03EB12A6792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFEC481-049A-4793-94FA-F03EB12A6792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFEC481-049A-4793-94FA-F03EB12A6792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A46CFD-579A-4D15-BE25-40ECE09D5E43}
+	EndGlobalSection
+EndGlobal
